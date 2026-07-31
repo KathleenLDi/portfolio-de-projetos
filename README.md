@@ -24,7 +24,7 @@ Um espaço para apresentar minha trajetória, minhas habilidades e os projetos q
 
 Criei este portfólio para reunir, em um único lugar, um pouco do meu trabalho como **desenvolvedora Front-end**.
 
-Nele você pode conhecer melhor minha forma de desenvolver, as tecnologias com que trabalho e os projetos que construí a partir de necessidades reais — incluindo **sites, sistemas, interfaces web e soluções com inteligência artificial**.
+Nele você pode conhecer melhor minha forma de desenvolver, as tecnologias com que trabalho e os projetos que construí a partir de necessidades reais incluindo **sites, sistemas, interfaces web e soluções com inteligência artificial**.
 
 Mais do que exibir telas, o objetivo é mostrar como penso cada projeto: entender o problema, organizar a experiência e transformar uma ideia em uma solução digital funcional.
 
