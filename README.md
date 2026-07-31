@@ -19,7 +19,7 @@ Sites, sistemas e soluções digitais construídos do rascunho ao deploy.
 
 Este repositório reúne alguns dos projetos que desenvolvi a partir de **necessidades reais de negócio e operação**.
 
-Meu foco é criar interfaces claras, responsivas e fáceis de usar, conectando o front-end à lógica necessária para que o projeto realmente funcione — seja um site comercial, um sistema de gestão ou uma solução com inteligência artificial.
+Meu foco é criar interfaces claras, responsivas e fáceis de usar, conectando o front-end à lógica necessária para que o projeto realmente funcione seja um site comercial, um sistema de gestão ou uma solução com inteligência artificial.
 
 O portfólio foi desenvolvido em **HTML, CSS e JavaScript**, com identidade visual própria, animações e elementos inspirados em código.
 
